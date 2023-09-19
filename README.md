@@ -1,1 +1,2 @@
-Read this
+#Guacamole recipe
+An excersise repository
